@@ -1,0 +1,19 @@
+src/content/docs/cloudflare-one/email-security/setup/pre-delivery-deployment/mx-inline-deployment-setup.mdx
+  s_4df3224723429a::t_4ea3bcb6465c77 111
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "8b39667705d946621ffcbdc00c0f77a7ecdbbbe0",
+  "prompts": {},
+  "sessions": {
+    "s_4df3224723429a": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "0ec60862-64ae-4ec2-afb6-e9cd8c4cc68e",
+        "model": "unknown"
+      },
+      "human_author": "Leander Tentrup <leander@cloudflare.com>"
+    }
+  }
+}
