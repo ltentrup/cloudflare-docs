@@ -1,0 +1,43 @@
+src/content/docs/cloudflare-one/email-security/reference/verify-domain-ownership.mdx
+  s_cc342a09150bc9::t_8d8e91fd120689 1-40
+src/content/docs/cloudflare-one/email-security/setup/manage-domains.mdx
+  s_4a9335c2616ad8::t_1ff87ca9b9f849 20-21,48
+src/content/docs/cloudflare-one/email-security/setup/post-delivery-deployment/bcc-journaling/bcc-setup/gmail-bcc-setup/connect-domains.mdx
+  s_cc342a09150bc9::t_e7e591e674439f 22-23,40-41,45
+src/content/docs/cloudflare-one/email-security/setup/post-delivery-deployment/bcc-journaling/journaling-setup/m365-journaling.mdx
+  s_cc342a09150bc9::t_3e5ee586a7fe3b 52-53
+src/content/docs/cloudflare-one/email-security/setup/post-delivery-deployment/bcc-journaling/journaling-setup/manual-add.mdx
+  s_cc342a09150bc9::t_4ada5a3a6b9fa0 40-43,64-67
+src/content/docs/cloudflare-one/email-security/setup/pre-delivery-deployment/mx-inline-deployment-setup.mdx
+  s_cc342a09150bc9::t_ed88ee61cafa31 75-86,96-99,101-113
+src/content/docs/email-security/deployment/api/setup/gsuite-bcc-setup/add-domain.mdx
+  s_cc342a09150bc9::t_ebaf84e6ad23fd 30-31
+src/content/docs/email-security/email-configuration/domains-and-routing/domains.mdx
+  s_4a9335c2616ad8::t_0df86b8dcbb1e9 38-39
+src/content/partials/cloudflare-one/email-security/domain-information.mdx
+  s_4a9335c2616ad8::t_926c1ddceb019b 8-9,11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "c5d5b458ba902761e988530ba3b34dd23a8465f5",
+  "prompts": {},
+  "sessions": {
+    "s_4a9335c2616ad8": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "b3566e60-8553-4fbd-9f64-f3fe67731613",
+        "model": "unknown"
+      },
+      "human_author": "Leander Tentrup <leander@cloudflare.com>"
+    },
+    "s_cc342a09150bc9": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "61c8799a-4445-4ab6-a0c6-fe7bd54629a2",
+        "model": "unknown"
+      },
+      "human_author": "Leander Tentrup <leander@cloudflare.com>"
+    }
+  }
+}
