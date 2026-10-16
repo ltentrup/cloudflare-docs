@@ -1,0 +1,29 @@
+src/content/docs/cloudflare-one/email-security/reference/verify-domain-ownership.mdx
+  s_3af6fbdb2d1867::t_dc38dbc217a4c5 11,19,28,34,36,38,40
+src/content/docs/cloudflare-one/email-security/setup/manage-domains.mdx
+  s_3af6fbdb2d1867::t_4956b21c0e1889 20
+src/content/docs/cloudflare-one/email-security/setup/pre-delivery-deployment/mx-inline-deployment-setup.mdx
+  s_3af6fbdb2d1867::t_01d867dcda80c6 77,83,96,109,111
+src/content/docs/email-security/deployment/api/setup/gsuite-bcc-setup/add-domain.mdx
+  s_3af6fbdb2d1867::t_9230f6cbe9f320 30
+src/content/docs/email-security/email-configuration/domains-and-routing/domains.mdx
+  s_3af6fbdb2d1867::t_4c4e38eecb51ac 38
+src/content/partials/cloudflare-one/email-security/domain-information.mdx
+  s_3af6fbdb2d1867::t_6bccca2230382e 9,11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "396d726398f1f681390a3a4d4a72a85a6975d496",
+  "prompts": {},
+  "sessions": {
+    "s_3af6fbdb2d1867": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "bd95346f-b30d-4f7b-84fd-2b915fae12bb",
+        "model": "unknown"
+      },
+      "human_author": "Leander Tentrup <leander@cloudflare.com>"
+    }
+  }
+}
